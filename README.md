@@ -29,7 +29,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Multi-User-Drawing-Tool.git
+git clone https://github.com/Dhanushjayashekar/Multi-User-Drawing-Tool.git
 cd Multi-User-Drawing-Tool
 Install dependencies
 
@@ -62,6 +62,5 @@ Push to the branch (git push origin feature-name)
 
 Open a pull request
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
